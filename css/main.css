@@ -37,6 +37,10 @@ li {
     justify-content: space-between;
 }
 
+.justify-content-end {
+    justify-content: end;
+}
+
 .ms-2 {
     margin-left: 1rem;
 }
